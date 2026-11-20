@@ -13,17 +13,21 @@ To study the fundamentals of UI and UX, understand their differences, relationsh
 
 ## Output:
 1. Fundamentals of UI and UX
+
+
 - UI (User Interface): It deals with the visual elements of an application, such as buttons, colours, icons, fonts and layouts.
 - UX (User Experience): It focuses on the overall experience of users while using an application, including ease of use, navigation and satisfaction.
 
 
 2. Difference Between UI and UX Using Real-World Case Studies
 UI	UX
+
 Focuses on appearance.	Focuses on user experience.
 Includes buttons, colours and icons.	Includes navigation and usability.
 Makes the application attractive.	Makes the application easy to use.
 
 Example: In an online shopping application, product images and checkout buttons are UI, while searching for products and completing purchases easily are UX.
+
 
 3. Relationship Between UI and UX in Design
 
